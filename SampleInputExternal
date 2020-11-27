@@ -3,15 +3,10 @@
 # This could be avoided by defining each basis in the external file
 # This file was created on 11-26-2020 (Happy Thanksgiving) by Kevin Skinner
 
-%pal	
-nprocs	1
-end
-
 %scf
 MaxIter 150
 TolE 1e-6
 end
-
 
 ! B3LYP
 
